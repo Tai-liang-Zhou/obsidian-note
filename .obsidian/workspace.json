@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "e6bad0f37d98575f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2143f530debe4737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aac7194c184e5c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log 的價值.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7da6e72c28a7fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "說明以終為始的目標.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22e14f62d4893599",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b3bf3ea37e4708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13c74ac8c3e03930",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d09bad516da49a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf1189751205ab68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc1532ad7fa9c560",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cad4e33d62b6f2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459724322c170ea5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "說明以終為始的目標.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a321e54e85b5df54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "說明以終為始的目標.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4ac03df5fd7db3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c037e8a21a1c215b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "說明以終為始的目標.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d7da6e72c28a7fbc",
+  "lastOpenFiles": [
+    "多個 application 使用同一份檔案.md",
+    "減少心理摩擦力.md",
+    "說明以終為始的目標.md",
+    "踩在巨人的肩膀都不敢踩.md",
+    "Config filebeat to limit CPU & MEM problem.md",
+    "Filebeat documents.md",
+    "Filebeat log issue.md",
+    "Filebeat source code analysis.md",
+    "log 的價值.md",
+    "README.md",
+    "`close_inactive`.md",
+    "[Log.md",
+    "Excalidraw/Drawing 2023-07-28 09.14.31.excalidraw.md",
+    "2023-07-28.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "attaches/Pasted image 20230728011051.png",
+    "attaches/Pasted image 20230728011226.png",
+    "attaches"
+  ]
+}
